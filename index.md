@@ -21,12 +21,16 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Inline-style: 
+![alt text](https://cdn.pixabay.com/photo/2014/12/17/21/30/wild-flowers-571940_960_720.jpg "Logo Title Text 1")
 
 ### Jekyll Themes
 
